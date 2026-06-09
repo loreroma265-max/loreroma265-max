@@ -25,8 +25,8 @@ building data pipelines, automating reports, and doing manager due diligence.
 
 | Project | Description | Stack |
 |---|---|---|
-| [S&P 500 Price Forecasting](link) | End-to-end pipeline forecasting AMZN next-day closing prices | Python, Pandas, sklearn |
-| [ARIMA Sales Forecasting](link) | Alcoholic beverages sales forecast using ARIMA & SARIMA | Python, statsmodels |
+| [S&P 500 Price Forecasting](https://github.com/loreroma265-max/Github-S-P-500-Companies-Forecasting) | End-to-end pipeline forecasting AMZN next-day closing prices | Python, Pandas, sklearn |
+| [ARIMA Sales Forecasting](https://github.com/loreroma265-max/ARIMA-and-Seasonal-ARIMA-Forecasting) | Alcoholic beverages sales forecast using ARIMA & SARIMA | Python, statsmodels |
 
 ---
 
